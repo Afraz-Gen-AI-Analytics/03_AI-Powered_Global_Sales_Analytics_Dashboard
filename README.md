@@ -68,10 +68,9 @@ This project demonstrates the effective use of data cleaning, DAX calculations, 
 - **WhatsApp**: +91 89512 97060  
 - **GitHub**: [Afraz-Gen-AI-Analytics](https://github.com/Afraz-Gen-AI-Analytics)  
 - **LinkedIn**: [Afraz Analytics](https://www.linkedin.com/in/afraz-analytics)
-- **Google Drive**: [Portfolio](https://drive.google.com/drive/folders/1szbdGJg2_2VrmIE9xfYVot_eu2GqoM3c)
-  **Fiverr profile**: [View Here](https://www.fiverr.com/s/2K8Em6V)
+- **Google Drive**: [Portfolio](https://drive.google.com/drive/folders/1szbdGJg2_2VrmIE9xfYVot_eu2GqoM3c)  **Fiverr profile**: [View Here](https://www.fiverr.com/s/2K8Em6V)
+- **Fiverr profile**: [View Here](https://www.fiverr.com/s/2K8Em6V)
 ---
-
 ## License
 
 This project is intended for educational and portfolio purposes only. All data is mock or anonymized and used solely to demonstrate data analytics and dashboard development skills.
