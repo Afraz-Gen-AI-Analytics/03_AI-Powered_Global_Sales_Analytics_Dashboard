@@ -46,6 +46,11 @@ This project demonstrates the effective use of data cleaning, DAX calculations, 
 - **Project Certificate Folder**  
   [Google Drive Certificate Folder](https://drive.google.com/drive/folders/1lBIx7cKYP-yPIOULMWFjom5vTqQLgJfd?usp=drive_link)
 ---
+
+## Interactivity
+**07_Interactivity.mp4**: [Watch/Download Video](https://drive.google.com/file/d/1XintVouhK89Ld5TXT2YbWF3TXV-0pNuJ/view?usp=drive_link)
+
+---
 ## Project Assets
 
 - Google Drive Link (Dataset, PBIX File, Presentation and Documentation):  
